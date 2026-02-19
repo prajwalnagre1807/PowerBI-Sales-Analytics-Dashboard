@@ -19,8 +19,8 @@ identify top-performing categories, and make data-driven decisions.
 - Interactive slicers and filters
 - Clean and professional dashboard layout
 
-## 🔗 Live Power BI Dashboard
-👉 **[View Live Dashboard](PASTE_POWER_BI_LINK_HERE)**
+## 🔗 Live Power BI Dashboard)
+https://lpuin-my.sharepoint.com/:u:/g/personal/nagreprajwal23_lpu_in/IQBkFK60zxqqRLODF7DLVFE2AelpTMqSoXratqQvWFUv84I?e=m3eTYs 
 
 ## 📁 Repository Contents
 - `INT374 SUBMISSION.pbix` – Power BI dashboard file
